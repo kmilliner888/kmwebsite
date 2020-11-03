@@ -357,7 +357,7 @@ th {
   width: auto; }
 
 body {
-  color: white;
+  color:  #402f2d;
   font-family: 'Open Sans', sans-serif;
   margin: 0;
   padding: 0;
@@ -367,8 +367,7 @@ body {
 
 html, body {
   height: auto;
-  background-image: linear-gradient(#360033, #0b8793);
-  background-repeat: no-repeat;
+  background: #dcb1a5;
 }
 
 main {
@@ -520,13 +519,12 @@ float: right;
 width: 315px;
 height: auto;
 margin-bottom: 50px;
-background: white;
+background: #f3f4f1;
 border-top-left-radius: 12px;
 border-top-right-radius: 12px;
 border-bottom-left-radius: 0px;
 border-bottom-right-radius: 0px;
 box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
-background: yellow;
 }
 
 h2 {
@@ -574,11 +572,11 @@ height: 12px;
 }
 
 a:link {
-color: yellow;
+color: #f3f4f1;
 }
 
 a:visited {
-color: yellow;
+color: #9baf96;
 }
 
 ul li a {
